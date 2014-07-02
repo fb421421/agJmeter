@@ -707,8 +707,8 @@
         </ConstantTimer>
         <hashTree/>
       </hashTree>
-      <ResultCollector guiclass="StatGraphVisualizer" testclass="ResultCollector" testname="Aggregate Graph" enabled="true">
-        <boolProp name="ResultCollector.error_logging">true</boolProp>
+      <ResultCollector guiclass="StatGraphVisualizer" testclass="ResultCollector" testname="Aggregate Graph" enabled="false">
+        <boolProp name="ResultCollector.error_logging">false</boolProp>
         <objProp>
           <name>saveConfig</name>
           <value class="SampleSaveConfiguration">
@@ -739,7 +739,7 @@
             <sampleCount>true</sampleCount>
           </value>
         </objProp>
-        <stringProp name="filename">D:\tools\apache-jmeter-2.11\apache-jmeter-2.11\bin\ag\data\agg.jmx</stringProp>
+        <stringProp name="filename">D:\tools\apache-jmeter-2.11\apache-jmeter-2.11\bin\log\agg.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="RespTimeGraphVisualizer" testclass="ResultCollector" testname="Response Time Graph" enabled="false">
@@ -774,7 +774,7 @@
             <sampleCount>true</sampleCount>
           </value>
         </objProp>
-        <stringProp name="filename">D:\tools\apache-jmeter-2.11\apache-jmeter-2.11\bin\ag\response.csv</stringProp>
+        <stringProp name="filename">D:\tools\apache-jmeter-2.11\apache-jmeter-2.11\bin\log\response.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="GraphVisualizer" testclass="ResultCollector" testname="Graph Results" enabled="false">
@@ -813,7 +813,7 @@
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="false">
-        <boolProp name="ResultCollector.error_logging">false</boolProp>
+        <boolProp name="ResultCollector.error_logging">true</boolProp>
         <objProp>
           <name>saveConfig</name>
           <value class="SampleSaveConfiguration">
@@ -845,7 +845,7 @@
           </value>
         </objProp>
         <stringProp name="TestPlan.comments">Use only during debug of script</stringProp>
-        <stringProp name="filename">D:\tools\apache-jmeter-2.11\apache-jmeter-2.11\bin\ag\data\error.csv</stringProp>
+        <stringProp name="filename">D:\tools\apache-jmeter-2.11\apache-jmeter-2.11\bin\log\error.csv</stringProp>
       </ResultCollector>
       <hashTree/>
     </hashTree>
