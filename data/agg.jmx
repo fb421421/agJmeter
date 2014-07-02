@@ -1,0 +1,1716 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,failureMessage,bytes,grpThreads,allThreads,Latency,SampleCount,ErrorCount,Hostname
+1404322691611,21008,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-29,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322707613,21005,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-88,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322707644,21005,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-97,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322716128,20997,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-57,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322729436,21004,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-176,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322740489,20999,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-23,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322740497,21007,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-101,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322740633,21000,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-60,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322740836,20999,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-22,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322741661,21000,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-138,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322742318,21005,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-116,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322743445,20996,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-62,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322761516,3566,检查是否登录,200,OK,现金会员 1-101,false,"Test failed: text expected to contain /""status"":1/",241,200,200,3566,1,1,PC-078
+1404322744849,21007,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-17,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322744861,21001,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-69,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322745004,20993,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-5,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322745726,21006,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-198,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322746611,21002,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-122,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322746639,21004,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-11,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322746651,20997,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-167,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322747053,21003,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-37,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322748863,20995,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-143,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322750044,20997,获取验证码,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-75,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322765878,5354,检查是否登录,200,OK,现金会员 1-69,false,"Test failed: text expected to contain /""status"":1/",241,200,200,5354,1,1,PC-078
+1404322750240,20997,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-119,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322750925,21008,获取验证码,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-59,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322750928,21005,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-162,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322750967,21004,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-91,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322766746,6041,检查是否登录,200,OK,现金会员 1-198,false,"Test failed: text expected to contain /""status"":1/",241,200,200,6041,1,1,PC-078
+1404322767672,5948,检查是否登录,200,OK,现金会员 1-167,false,"Test failed: text expected to contain /""status"":1/",241,200,200,5948,1,1,PC-078
+1404322752623,20997,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-24,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404322761645,12536,检查是否登录,200,OK,现金会员 1-60,false,"Test failed: text expected to contain /""status"":1/",241,200,200,12536,1,1,PC-078
+1404322753257,21005,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-100,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404322753903,20999,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-52,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322769873,5493,检查是否登录,200,OK,现金会员 1-143,false,"Test failed: text expected to contain /""status"":1/",241,200,200,5493,1,1,PC-078
+1404322763336,12113,检查是否登录,200,OK,现金会员 1-116,false,"Test failed: text expected to contain /""status"":1/",241,200,200,12113,1,1,PC-078
+1404322754633,21000,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-42,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322772798,3153,存款,403,Forbidden,现金会员 1-198,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,3153,1,1,PC-078
+1404322755057,21002,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-134,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322755059,21005,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-105,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404322755091,21003,获取验证码,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-98,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322767628,8633,检查是否登录,200,OK,现金会员 1-122,false,"Test failed: text expected to contain /""status"":1/",241,200,200,8633,1,1,PC-078
+1404322755259,21007,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-176,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322755629,20998,获取验证码,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-90,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322765093,12115,存款,403,Forbidden,现金会员 1-101,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,12115,1,1,PC-078
+1404322774194,3158,存款,403,Forbidden,现金会员 1-60,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,3158,1,1,PC-078
+1404322771243,6472,存款,403,Forbidden,现金会员 1-69,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,6472,1,1,PC-078
+1404322757068,21002,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-106,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404322757077,21008,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-191,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322757758,21001,获取验证码,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-32,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322757836,20998,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-56,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322775376,3677,存款,403,Forbidden,现金会员 1-143,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,3677,1,1,PC-078
+1404322758231,21005,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-126,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322758262,21004,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-10,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322758322,21001,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-93,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322776271,3664,存款,403,Forbidden,现金会员 1-122,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,3664,1,1,PC-078
+1404322759244,21007,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-66,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322759758,21006,获取验证码,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-18,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322775460,6196,存款,403,Forbidden,现金会员 1-116,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,6196,1,1,PC-078
+1404322775962,6238,查询存款订单,403,Forbidden,现金会员 1-198,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,6238,1,1,PC-078
+1404322777363,5614,查询存款订单,403,Forbidden,现金会员 1-60,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,5614,1,1,PC-078
+1404322779065,4092,查询存款订单,403,Forbidden,现金会员 1-143,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,4092,1,1,PC-078
+1404322762423,21000,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-188,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404322762587,20996,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-178,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322779946,3917,查询存款订单,403,Forbidden,现金会员 1-122,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,3917,1,1,PC-078
+1404322777726,6241,查询存款订单,403,Forbidden,现金会员 1-69,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,6241,1,1,PC-078
+1404322763235,20995,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-55,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322763446,21002,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-193,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322773630,12149,存款,403,Forbidden,现金会员 1-167,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,12149,1,1,PC-078
+1404322764917,21001,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-123,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322764941,21000,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-140,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322765618,20991,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-128,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322766211,21007,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-87,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322781667,5832,查询存款订单,403,Forbidden,现金会员 1-116,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,5832,1,1,PC-078
+1404322767282,21006,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-58,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322767493,21005,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-157,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404322767894,21001,获取验证码,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-22,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322785791,3320,查询存款订单,403,Forbidden,现金会员 1-167,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,3320,1,1,PC-078
+1404322768583,20999,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-12,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322768626,20995,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-80,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322778654,11582,获取验证码值,204,No Content,现金会员 1-59,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",277,200,200,0,1,1,PC-078
+1404322769992,21003,获取验证码,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-139,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322770798,21002,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-171,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322771601,21008,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-81,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322778971,13735,获取验证码值,204,No Content,现金会员 1-98,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",277,200,200,0,1,1,PC-078
+1404322772226,21001,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-21,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322772256,21001,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-152,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322772837,20997,获取验证码,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-177,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322773085,21004,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-144,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322773553,20997,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-68,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322784092,10710,获取验证码值,204,No Content,现金会员 1-32,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",277,200,200,0,1,1,PC-078
+1404322774634,20997,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-77,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322777219,20993,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-101,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322777419,20992,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-189,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322778024,21003,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-150,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404322778033,21001,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-190,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322778486,20999,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-110,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322748287,51303,存款,Non HTTP response code: java.net.SocketException,Non HTTP response message: Software caused connection abort: recv failed,现金会员 1-84,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",2390,200,200,0,1,1,PC-078
+1404322779086,20998,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-192,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322779540,21004,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-50,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322779837,21000,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-142,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322781331,21006,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-82,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322781489,20992,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-135,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322784038,20994,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-18,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322784269,20993,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-88,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322784381,21004,获取验证码,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-106,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322794879,10549,获取验证码值,204,No Content,现金会员 1-22,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",277,200,200,0,1,1,PC-078
+1404322795161,10712,获取验证码值,204,No Content,现金会员 1-90,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",277,200,200,0,1,1,PC-078
+1404322795572,10692,获取验证码值,204,No Content,现金会员 1-75,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",277,200,200,0,1,1,PC-078
+1404322786624,20998,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-128,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322797162,10880,获取验证码值,204,No Content,现金会员 1-177,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",277,200,200,0,1,1,PC-078
+1404322787230,21000,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-3,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322787232,21009,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-87,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322789288,21000,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-73,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322791223,21008,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-137,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322791731,20992,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-157,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322791813,21001,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-171,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322791873,21002,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-41,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322792848,20995,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-2,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322793623,21001,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-182,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322803599,11363,获取验证码值,204,No Content,现金会员 1-139,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",277,200,200,0,1,1,PC-078
+1404322794871,21007,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-115,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322795916,21000,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-109,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322797258,20999,获取验证码,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-172,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322799497,20997,获取验证码,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-110,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322808339,12929,获取验证码值,204,No Content,现金会员 1-106,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",277,200,200,0,1,1,PC-078
+1404322800528,20994,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-63,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322801020,20994,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-160,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322802349,20998,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-170,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322802352,21008,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-82,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322807635,21001,获取验证码,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-128,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322807637,21004,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-68,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322807905,21008,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-166,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322808372,20992,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-24,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322808481,20998,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-108,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322808970,20994,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-187,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322809270,21002,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-37,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322809681,20998,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-98,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322810783,20994,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-46,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322811249,21001,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-33,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322811428,20996,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-16,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322813038,20998,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-140,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322828657,5614,检查是否登录,200,OK,现金会员 1-68,false,"Test failed: text expected to contain /""status"":1/",241,200,200,5613,1,1,PC-078
+1404322823373,10906,检查是否登录,200,OK,现金会员 1-82,false,"Test failed: text expected to contain /""status"":1/",241,200,200,10906,1,1,PC-078
+1404322813757,21002,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-121,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404322815142,20998,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-132,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322815538,21004,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-164,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322816712,21002,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-31,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322834063,3677,获取验证码值,204,No Content,现金会员 1-172,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",277,200,200,0,1,1,PC-078
+1404322834281,4325,存款,403,Forbidden,现金会员 1-68,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,4325,1,1,PC-078
+1404322834290,4328,存款,403,Forbidden,现金会员 1-82,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,4328,1,1,PC-078
+1404322818228,20996,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-83,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322818642,20999,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-159,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322838628,1520,查询存款订单,403,Forbidden,现金会员 1-82,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,1520,1,1,PC-078
+1404322838617,1533,查询存款订单,403,Forbidden,现金会员 1-68,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,1533,1,1,PC-078
+1404322819813,21005,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-143,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322829492,11741,检查是否登录,200,OK,现金会员 1-108,false,"Test failed: text expected to contain /""status"":1/",241,200,200,11741,1,1,PC-078
+1404322820719,21003,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-100,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322821537,21000,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-63,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322841245,1423,存款,403,Forbidden,现金会员 1-108,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,1422,1,1,PC-078
+1404322822028,20999,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-160,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322822228,21005,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-2,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322822841,20994,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-15,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404322823089,21003,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-7,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322842551,1602,检查是否登录,200,OK,现金会员 1-63,false,"Test failed: text expected to contain /""status"":1/",241,200,200,1602,1,1,PC-078
+1404322842678,1649,查询存款订单,403,Forbidden,现金会员 1-108,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,1649,1,1,PC-078
+1404322823450,20996,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-78,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322823467,21004,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-44,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404322844164,1856,存款,403,Forbidden,现金会员 1-63,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,1855,1,1,PC-078
+1404322826033,20998,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-107,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322826660,21004,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-19,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322846030,1809,查询存款订单,403,Forbidden,现金会员 1-63,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,1809,1,1,PC-078
+1404322878014,21002,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-52,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322898562,20999,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-38,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322927064,20998,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-154,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322929713,21006,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-92,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322930071,21008,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-183,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322948077,6153,检查是否登录,200,OK,现金会员 1-154,false,"Test failed: text expected to contain /""status"":1/",241,200,200,6153,1,1,PC-078
+1404322954242,2978,存款,403,Forbidden,现金会员 1-154,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,2978,1,1,PC-078
+1404322957231,2970,查询存款订单,403,Forbidden,现金会员 1-154,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,2970,1,1,PC-078
+1404322939688,21000,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-8,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322939706,21002,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-132,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322953166,21000,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-197,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322953530,21000,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-157,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322955557,21005,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-130,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322967641,20999,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-53,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404322991262,21006,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-172,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404322992775,20999,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-91,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322996071,21007,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-29,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404322996099,20993,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-31,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323006849,20996,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-160,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323018218,20999,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-88,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323019231,21000,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-37,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323027330,20999,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-47,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323027465,20995,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-165,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323030162,21000,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-107,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323054998,20997,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323082441,21001,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-33,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323088227,21003,获取验证码,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-148,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323093023,20997,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-181,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323098918,21001,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-177,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323119933,2561,检查是否登录,200,OK,现金会员 1-177,false,"Test failed: text expected to contain /""status"":1/",241,200,200,2561,1,1,PC-078
+1404323101924,20998,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-172,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323101974,21002,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-9,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404323122506,2661,存款,403,Forbidden,现金会员 1-177,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,2661,1,1,PC-078
+1404323114672,12511,获取验证码值,204,No Content,现金会员 1-148,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",277,200,200,0,1,1,PC-078
+1404323125178,5358,查询存款订单,403,Forbidden,现金会员 1-177,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,5358,1,1,PC-078
+1404323118149,20994,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-127,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323120456,21000,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-162,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404323122260,20992,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-108,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404323139157,5801,检查是否登录,200,OK,现金会员 1-127,false,"Test failed: text expected to contain /""status"":1/",241,200,200,5801,1,1,PC-078
+1404323126236,21004,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-22,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323144970,2723,存款,403,Forbidden,现金会员 1-127,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,2723,1,1,PC-078
+1404323127030,21000,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-158,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323147703,14622,查询存款订单,403,Forbidden,现金会员 1-127,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,14622,1,1,PC-078
+1404323156565,21006,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-183,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404323169045,21002,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-158,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323174017,20994,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-155,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323195026,2830,检查是否登录,200,OK,现金会员 1-155,false,"Test failed: text expected to contain /""status"":1/",241,200,200,2829,1,1,PC-078
+1404323183599,20992,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-118,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323197866,8539,存款,403,Forbidden,现金会员 1-155,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,8539,1,1,PC-078
+1404323206416,2644,查询存款订单,403,Forbidden,现金会员 1-155,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,2644,1,1,PC-078
+1404323196232,20994,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-86,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323196337,21000,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-141,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323217239,5642,检查是否登录,200,OK,现金会员 1-86,false,"Test failed: text expected to contain /""status"":1/",241,200,200,5642,1,1,PC-078
+1404323222893,2551,存款,403,Forbidden,现金会员 1-86,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,2551,1,1,PC-078
+1404323225454,2624,查询存款订单,403,Forbidden,现金会员 1-86,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,2624,1,1,PC-078
+1404323219040,20999,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-130,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323233700,21006,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-100,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323235407,21005,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-41,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323236959,20999,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-8,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323240035,20999,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-91,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323240054,21002,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-130,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323257973,3780,检查是否登录,200,OK,现金会员 1-8,false,"Test failed: text expected to contain /""status"":1/",241,200,200,3780,1,1,PC-078
+1404323261764,2651,存款,403,Forbidden,现金会员 1-8,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,2651,1,1,PC-078
+1404323264426,3553,查询存款订单,403,Forbidden,现金会员 1-8,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,3553,1,1,PC-078
+1404323260626,21000,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-143,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323260628,20998,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-78,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323281640,2755,检查是否登录,200,OK,现金会员 1-143,false,"Test failed: text expected to contain /""status"":1/",241,200,200,2755,1,1,PC-078
+1404323284407,2874,存款,403,Forbidden,现金会员 1-143,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,2874,1,1,PC-078
+1404323287292,2531,查询存款订单,403,Forbidden,现金会员 1-143,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,2531,1,1,PC-078
+1404323276435,21004,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-111,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323278755,21003,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-22,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323285464,20998,获取验证码,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-130,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323309285,10180,获取验证码值,204,No Content,现金会员 1-130,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",277,200,200,0,1,1,PC-078
+1404323306567,20997,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-42,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323311709,21000,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-194,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323315224,20996,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-38,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323319852,21001,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-148,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323320639,21008,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-7,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323331817,20996,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-17,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323334252,21000,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-3,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404323336618,21001,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-197,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323345583,21006,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-65,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404323381981,21009,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-7,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323388477,21001,检查是否登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-112,false,"Test failed: text expected to contain /""status"":1/",2133,200,200,0,1,1,PC-078
+1404323388549,20995,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-79,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323409558,2856,检查是否登录,200,OK,现金会员 1-79,false,"Test failed: text expected to contain /""status"":1/",241,200,200,2856,1,1,PC-078
+1404323412426,2742,存款,403,Forbidden,现金会员 1-79,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,2742,1,1,PC-078
+1404323415179,3673,查询存款订单,403,Forbidden,现金会员 1-79,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,3673,1,1,PC-078
+1404323401650,21001,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-132,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323442421,21008,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-16,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323445607,21001,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-33,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323446404,21005,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-31,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323466622,3665,检查是否登录,200,OK,现金会员 1-33,false,"Test failed: text expected to contain /""status"":1/",241,200,200,3665,1,1,PC-078
+1404323470297,2854,存款,403,Forbidden,现金会员 1-33,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,2854,1,1,PC-078
+1404323452405,21004,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-54,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323473162,2824,查询存款订单,403,Forbidden,现金会员 1-33,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,2824,1,1,PC-078
+1404323458805,21000,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-136,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323463554,21005,登录,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-7,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323466026,21004,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-30,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323484573,2600,检查是否登录,200,OK,现金会员 1-7,false,"Test failed: text expected to contain /""status"":1/",241,200,200,2600,1,1,PC-078
+1404323487183,2609,存款,403,Forbidden,现金会员 1-7,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,2608,1,1,PC-078
+1404323489803,2435,查询存款订单,403,Forbidden,现金会员 1-7,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,200,200,2435,1,1,PC-078
+1404323471725,21007,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-159,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323475628,20998,查询存款订单,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-83,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323475653,20994,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-99,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323485053,20997,存款,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-136,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323485842,21002,注册会员,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-2,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323487549,20999,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-11,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2133,200,200,0,1,1,PC-078
+1404323488363,20999,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.

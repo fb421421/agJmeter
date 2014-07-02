@@ -1,0 +1,190 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,failureMessage,bytes,grpThreads,allThreads,Latency,SampleCount,ErrorCount,Hostname
+1404321417364,21907,获取验证码,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",2358,1,1,0,1,1,PC-078
+1404321442263,36745,获取验证码,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",2358,1,1,0,1,1,PC-078
+1404321489054,51067,获取验证码,503,Service Temporarily Unavailable,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",493,1,1,51067,1,1,PC-078
+1404321540130,515,验证用户名是否存在,503,Service Temporarily Unavailable,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",493,1,1,514,1,1,PC-078
+1404321540656,490,获取验证码值,503,Service Temporarily Unavailable,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",493,1,1,490,1,1,PC-078
+1404321541157,540,验证验证码是否正确,503,Service Temporarily Unavailable,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",576,1,1,540,1,1,PC-078
+1404321541709,60623,登录,502,Proxy Error,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[502]]]
+
+****** comparison: [[[200]]]
+
+/",703,1,1,60623,1,1,PC-078
+1404321602340,60606,检查是否登录,502,Proxy Error,现金会员 1-1,false,"Test failed: text expected to contain /""status"":1/",717,1,1,60606,1,1,PC-078
+1404321662959,21671,存款,403,Forbidden,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,1,1,21671,1,1,PC-078
+1404321684642,550,查询存款订单,403,Forbidden,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,1,1,550,1,1,PC-078
+1404321761738,26738,获取验证码,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",1939,1,1,0,1,1,PC-078
+1404321788485,1753,验证用户名是否存在,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2131,1,1,0,1,1,PC-078
+1404321790248,1757,获取验证码值,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2131,1,1,0,1,1,PC-078
+1404321792015,1801,验证验证码是否正确,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to http://www.aomentequ.com refused,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2131,1,1,0,1,1,PC-078
+1404321793828,15413,登录,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",2358,1,1,0,1,1,PC-078
+1404322197401,482,检查是否登录,200,OK,现金会员 1-1,false,"Test failed: text expected to contain /""status"":1/",241,1,1,482,1,1,PC-078
+1404322197894,602,存款,403,Forbidden,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,1,1,602,1,1,PC-078
+1404322198507,539,查询存款订单,403,Forbidden,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,1,1,539,1,1,PC-078
+1404322211347,574,检查是否登录,200,OK,现金会员 1-1,false,"Test failed: text expected to contain /""status"":1/",241,1,1,574,1,1,PC-078
+1404322211932,503,存款,403,Forbidden,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,1,1,503,1,1,PC-078
+1404322212447,540,查询存款订单,403,Forbidden,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,1,1,540,1,1,PC-078
+1404322241021,539,检查是否登录,200,OK,现金会员 1-1,false,"Test failed: text expected to contain /""status"":1/",241,1,1,539,1,1,PC-078
+1404322241571,513,存款,403,Forbidden,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,1,1,513,1,1,PC-078
+1404322242094,528,查询存款订单,403,Forbidden,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,1,1,528,1,1,PC-078
+1404322328622,563,检查是否登录,200,OK,现金会员 1-1,false,"Test failed: text expected to contain /""status"":1/",241,1,1,563,1,1,PC-078
+1404322329199,527,存款,403,Forbidden,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,1,1,527,1,1,PC-078
+1404322329739,579,查询存款订单,403,Forbidden,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,1,1,579,1,1,PC-078
+1404322366452,528,获取验证码,200,OK,现金会员 1-1,true,,3284,1,1,527,1,0,PC-078
+1404322366992,566,验证用户名是否存在,200,OK,现金会员 1-1,true,,245,1,1,566,1,0,PC-078
+1404322367571,592,获取验证码值,200,OK,现金会员 1-1,true,,175,1,1,592,1,0,PC-078
+1404322368175,517,验证验证码是否正确,200,OK,现金会员 1-1,true,,202,1,1,517,1,0,PC-078
+1404322368708,518,注册会员,200,OK,现金会员 1-1,true,,245,1,1,517,1,0,PC-078
+1404322369237,530,登录,200,OK,现金会员 1-1,true,,241,1,1,530,1,0,PC-078
+1404322369778,496,检查是否登录,200,OK,现金会员 1-1,false,"Test failed: text expected to contain /""status"":1/",241,1,1,496,1,1,PC-078
+1404322370285,511,存款,403,Forbidden,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,1,1,510,1,1,PC-078
+1404322370807,491,查询存款订单,403,Forbidden,现金会员 1-1,false,"Test failed: code expected to equal /
+
+****** received  : [[[403]]]
+
+****** comparison: [[[200]]]
+
+/",218,1,1,491,1,1,PC-078
+1404322403635,545,获取验证码,200,OK,现金会员 1-1,true,,3360,1,1,544,1,0,PC-078
+1404322404191,537,验证用户名是否存在,200,OK,现金会员 1-1,true,,245,1,1,537,1,0,PC-078
+1404322404740,538,获取验证码值,200,OK,现金会员 1-1,true,,175,1,1,538,1,0,PC-078
+1404322405289,512,验证验证码是否正确,200,OK,现金会员 1-1,true,,202,1,1,512,1,0,PC-078
+1404322405816,508,注册会员,200,OK,现金会员 1-1,true,,245,1,1,508,1,0,PC-078
+1404322406335,572,登录,200,OK,现金会员 1-1,true,,486,1,1,572,1,0,PC-078
+1404322406919,580,检查是否登录,200,OK,现金会员 1-1,true,,327,1,1,580,1,0,PC-078
+1404322407512,663,存款,200,OK,现金会员 1-1,true,,705,1,1,662,1,0,PC-078
+1404322408187,569,查询存款订单,200,OK,现金会员 1-1,true,,726,1,1,569,1,0,PC-078
